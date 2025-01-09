@@ -1,6 +1,5 @@
 # CaliforniaHousing
-Housing Prices Prediction Using Decision Trees
-Overview
+
 This project focuses on predicting housing prices using a Decision Tree Regressor. By analyzing a housing dataset, we explore the relationships between key housing attributes (e.g., median income, total rooms, and households) and the median house value. The project leverages feature engineering, data visualization, and machine learning to deliver insights and build predictive models.
 
 Key Features
